@@ -6,7 +6,7 @@ Make your pages roar!
 Toying with raptors...
 
 Vogue's client code + jquery.raptorize.vogue.js
-
+```
 $(function () {
     // konami code - up up down down left right left right b a
     var code1 = String.fromCharCode(38, 38, 40, 40, 37, 39, 37, 39, 66, 65);
@@ -46,4 +46,4 @@ $(function () {
         updateConsoleVisibility();
     }
 });
-
+```
